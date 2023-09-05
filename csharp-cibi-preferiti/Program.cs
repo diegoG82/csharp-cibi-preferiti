@@ -17,5 +17,7 @@ for (int i = 0; i < CibiPreferiti.Length; i++)
 //Riga vuota per spaziare
 Console.WriteLine();
 
+//Il vostro cibo top (prima posizione della classifica)
+Console.WriteLine("il mio cibo preferito e' la " + CibiPreferiti[0]);
 
 
