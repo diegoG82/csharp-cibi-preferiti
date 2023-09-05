@@ -20,4 +20,14 @@ Console.WriteLine();
 //Il vostro cibo top (prima posizione della classifica)
 Console.WriteLine("il mio cibo preferito e' la " + CibiPreferiti[0]);
 
+//Riga vuota per spaziare
+Console.WriteLine();
+
+//Il vostro cibo preferito ma non troppo (ultima posizione della classifica)
+Console.WriteLine("il mio cibo preferito ma non troppo è il " + CibiPreferiti[CibiPreferiti.Length - 1]);
+
+
+
+
+
 
